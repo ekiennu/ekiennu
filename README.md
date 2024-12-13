@@ -2309,4 +2309,3 @@ ExitImage.ZIndex = 10
 Exit.MouseButton1Click:Connect(function()
     FileError:Destroy()
 end)
-
